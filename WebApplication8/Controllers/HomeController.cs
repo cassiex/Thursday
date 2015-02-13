@@ -13,5 +13,8 @@ namespace WebApplication8.Controllers
         {
             return View();
         }
+        public ActionResult Clear() {
+            return View();
+        }
     }
 }
